@@ -1,4 +1,4 @@
-import prisma from "@/app/lib/prisma";
+ import prisma from '@/app/lib/prisma';
 import { NextApiRequest, NextApiResponse } from 'next';
 import { getSession } from 'next-auth/react';
  
